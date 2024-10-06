@@ -1,0 +1,17 @@
+{
+  "name": "servidorapp",
+  "version": "1.0.0",
+  "description": "servidor de mi app de conteo de calorias",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "software",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
